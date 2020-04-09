@@ -1,0 +1,12 @@
+/Users/makhtarali/springAppRepo/spring-boot-kafka/src/main/java/com/demo/SpringBootWithKafkaApplication.java
+/Users/makhtarali/springAppRepo/spring-boot-kafka/src/main/java/com/demo/data/model/Product.java
+/Users/makhtarali/springAppRepo/spring-boot-kafka/src/main/java/com/demo/data/model/Price.java
+/Users/makhtarali/springAppRepo/spring-boot-kafka/src/main/java/com/demo/data/model/Workflow.java
+/Users/makhtarali/springAppRepo/spring-boot-kafka/src/main/java/com/demo/data/model/UpdatedAt.java
+/Users/makhtarali/springAppRepo/spring-boot-kafka/src/main/java/com/demo/data/model/Metafield.java
+/Users/makhtarali/springAppRepo/spring-boot-kafka/src/main/java/com/demo/engine/ProductConsumer.java
+/Users/makhtarali/springAppRepo/spring-boot-kafka/src/main/java/com/demo/data/repository/ProductRepository.java
+/Users/makhtarali/springAppRepo/spring-boot-kafka/src/main/java/com/demo/controllers/ApplicationController.java
+/Users/makhtarali/springAppRepo/spring-boot-kafka/src/main/java/com/demo/data/model/CreatedAt.java
+/Users/makhtarali/springAppRepo/spring-boot-kafka/src/main/java/com/demo/engine/ProductProducer.java
+/Users/makhtarali/springAppRepo/spring-boot-kafka/src/main/java/com/demo/data/model/PublishedAt.java
